@@ -1,0 +1,127 @@
+﻿ * body{
+    margin:0px;
+    padding:0px;
+    background-color:wheat
+}
+
+.college {
+    color: black;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px
+}
+
+/*p {
+    background-color: Highlight;
+    padding: 15px;
+    border-radius: 20px;
+    text-align: center;
+    border: solid;
+    border-color: gold
+}*/
+
+/*
+.form-control1{
+    background-color:aqua;
+}*/
+header h1.Contact {
+    /* background-color: #49688E;*/
+    color: black;
+    padding: 5px;
+    border: 10px;
+    text-align: left;
+}
+header h4.phone {
+    color: black;
+    padding: 5px;
+    border: 10px;
+    text-align: left;
+}
+
+header a.email {
+    color: black;
+    padding: 10px;
+    border: 10px;
+    text-align: left;
+}
+.main img {
+    width: 1330px;
+    height: 800px;
+    border: groove;
+    border-color: crimson;
+    margin: 0px 0px 0px 10px;
+}
+.main image{
+    height:30px;
+    width:22px;
+}
+
+.main h5{
+    text-align:center;
+    margin:5px 22px;
+    color:black
+    
+}
+
+.about h3 {
+    margin: 33px 7px 0px 0px;
+}
+
+.about h4 {
+    color: black;
+    box-shadow: 0 14px 33px rgb(0, 0, 0,0.25),0 10px 10px rgb(0, 0, 0,0.25);
+    text-align:center;
+    margin:5px 7px 0px 0px;
+}
+.about1 h4 {
+    color: black;
+    box-shadow: 0 14px 33px rgb(0, 0, 0,0.25),0 10px 10px rgb(0, 0, 0,0.25);
+    text-align: center;
+    margin: 18px 7px 0px 0px;
+    padding: 12px;
+    border: groove;
+    border-color: crimson
+}
+
+.about2 h4 {
+    color: black;
+    box-shadow: 0 14px 33px rgb(0, 0, 0,0.25),0 10px 10px rgb(0, 0, 0,0.25);
+    text-align: center;
+    margin: 18px 7px 0px 0px;
+    padding: 26px;
+    border: groove;
+    border-color:crimson
+}
+
+
+.about3 h4 {
+    color: black;
+    box-shadow: 0 14px 33px rgb(0, 0, 0,0.25),0 10px 10px rgb(0, 0, 0,0.25);
+    text-align: center;
+    margin: 18px 7px 0px 0px;
+    padding: 26px;
+    border: groove;
+    border-color:crimson
+}
+
+.about4 h4 {
+    color: black;
+    box-shadow: 0 14px 33px rgb(0, 0, 0,0.25),0 10px 10px rgb(0, 0, 0,0.25);
+    text-align: center;
+    margin: 18px 7px 0px 0px;
+    padding: 43px;
+    border: groove;
+    border-color: crimson
+}
+
+.about5 h4 {
+    color: black;
+    box-shadow: 0 14px 33px rgb(0, 0, 0,0.25),0 10px 10px rgb(0, 0, 0,0.25);
+    text-align: center;
+    margin: 18px 7px 0px 0px;
+    padding: 26px;
+    border: groove;
+    border-color: crimson
+}
+

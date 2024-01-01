@@ -1,0 +1,11 @@
+﻿body {
+}
+
+
+.container img.library {
+    height: 200px;
+    width: 300px;
+    margin: 30px 10px;
+    box-shadow: 0 14px 33px rgb(0, 0, 0,0.25),0 10px 10px rgb(0, 0, 0,0.25);
+    overflow: initial
+}
